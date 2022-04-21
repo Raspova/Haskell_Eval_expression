@@ -1,8 +1,7 @@
 ![](.asset/banner.png)
 # Intro
 
-Simple expresion evaluater in haskell.
-
+Simple expression evaluator in Haskell.
 
 # Usage and install
 
